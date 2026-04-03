@@ -18,10 +18,8 @@
 [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)](https://httpd.apache.org/)
-![Roles](https://img.shields.io/badge/user_roles-3-blueviolet?style=flat-square)
 ![Type](https://img.shields.io/badge/project-personal-orange?style=flat-square)
 ![Status](https://img.shields.io/badge/status-learning-yellow?style=flat-square)
-![Author](https://img.shields.io/badge/author-brouane-purple?style=flat-square)
 
 <br>
 
